@@ -32,7 +32,7 @@
 
 I am a **NLP Researcher** and **Master's student in NLP**, with a focus on **Large Language Models** and **NLP**. I bridge academic research with practical Python engineering.
 
-- 🔭 I'm currently working on **my Master's thesis on LLM evaluation and fine-tuning**
+- 🔭 I'm currently working on **my Master's thesis on Multilingual Mixture-of-Experts LLMs**
 - 🌱 I'm currently learning **Advanced RAG architectures and distributed ML training**
 - 👯 I'm looking to collaborate on **open-source NLP and GenAI projects**
 - 💬 Ask me about **LLMs, Python, Transformers, LaTeX, and academic research workflows**
